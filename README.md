@@ -9,7 +9,7 @@ Email: michal.benoo@.gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
 
-{project-name}: {link-to-repo}
+Portfolio web page: [personal-portfolio-web](https://github.com/michibene/personal-portfolio-web)
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 
